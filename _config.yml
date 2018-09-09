@@ -14,4 +14,4 @@ markdown: kramdown
 collections:
   books:
     output: true
-    permalink: /:categories/:title:output_ext
+    permalink: /:categories/:title
