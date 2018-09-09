@@ -2,7 +2,6 @@
 layout: book
 author: Антон Чехов
 name: Размазня
-position: Developer
 categories:
 - inofant
 - bradbury
