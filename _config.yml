@@ -14,4 +14,4 @@ markdown: kramdown
 collections:
   books:
     output: true
-    permalink: none
+    #permalink: none
