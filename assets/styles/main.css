@@ -20,6 +20,10 @@ h1 {
     font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
 }
 
+p {
+    text-indent: 20px;
+}
+
 .content {
     font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
     /* color: #333; */
