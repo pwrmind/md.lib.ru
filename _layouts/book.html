@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div id="mainMenu">
-    <span>{{ author }} - {{ name }}</span>
+    <span>{{ page.author }} - {{ page.name }}</span>
 </div>
 <div class="content">
     <pre>
-        {{ content | markdownify }}
+        {{ content }}
     </pre>
 </div>
