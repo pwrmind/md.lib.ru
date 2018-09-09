@@ -1,9 +1,10 @@
 ---
 layout: default
-name: Jane Doe
+author: Рэй Брэдбери
+name: Бетономешалка
 position: Developer
 categories:
-  - fantasy
-  - foreign
+  - inofant
+  - bradbury
 ---
 Jane has worked on Jekyll for the past *five years*.
