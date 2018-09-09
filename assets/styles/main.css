@@ -11,13 +11,13 @@
 html, body {
     background-color: #111;
     color: #e1d3c1;
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
 }
 
-h1 {
+h1, h2 {
     /* color: #333 !important; */
     font-weight: 200;
-    letter-spacing: -0.008em;
-    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+    letter-spacing: -0.008em; 
 }
 
 p {
@@ -29,6 +29,5 @@ blockquote > p {
 }
 
 .content {
-    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
     /* color: #333; */
 }
