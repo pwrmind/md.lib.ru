@@ -15,4 +15,12 @@ layout: default
           </li>
         {% endfor %}
     </ul>
+    {% for book in site.books %}
+    <h2>
+        <a href="{{ book.url }}">
+        {{ book.name }} - {{ book.position }}
+        </a>
+    </h2>
+    <p>{{ book.content | markdownify }}</p>
+    {% endfor %}
 </div>

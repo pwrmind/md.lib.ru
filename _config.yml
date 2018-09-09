@@ -12,6 +12,6 @@ markdown: kramdown
 permalink: pretty
 # theme: minima
 collections:
-  events:
+  books:
     output: true
-    permalink: pretty
+    #permalink: pretty
