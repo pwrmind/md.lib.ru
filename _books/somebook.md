@@ -1,4 +1,5 @@
 ---
+layout: default
 name: Jane Doe
 position: Developer
 ---
