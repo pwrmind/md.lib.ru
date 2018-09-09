@@ -14,4 +14,4 @@ permalink: pretty
 collections:
   books:
     output: true
-    #permalink: pretty
+    permalink: none
