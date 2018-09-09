@@ -8,9 +8,13 @@
 	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
 }
 
+html, body {
+    background-color: #111;
+    color: #dbcabe;
+}
 
 h1 {
-    color: #333 !important;
+    /* color: #333 !important; */
     font-weight: 200;
     letter-spacing: -0.008em;
     font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
@@ -18,5 +22,5 @@ h1 {
 
 .content {
     font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
-    color: #333;
+    /* color: #333; */
 }
