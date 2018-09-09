@@ -6,21 +6,11 @@ layout: default
     <span>{{ site.title }}</span>
 </div>
 <div class="content">
-    <ul>
-        {% for member in site.data.sections %}
-          <li>
-            <a href="https://github.com/{{ member.github }}">
-              {{ member.name }}
-            </a>
-          </li>
-        {% endfor %}
-    </ul>
     {% for book in site.books %}
     <h2>
         <a href="{{ book.url | relative_url }}">
-        {{ book.name }} - {{ book.position }}
+        {{ book.author }} - {{ book.name }}
         </a>
     </h2>
-    <p>{{ book.content | markdownify }}</p>
     {% endfor %}
 </div>
