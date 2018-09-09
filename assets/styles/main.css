@@ -4,7 +4,7 @@
 	font-family:'Myriad Set Pro';
 	font-style:normal;
 	font-weight:200;
-	src:local('☺︎'), url("{{ "/fonts/myriad-set-pro_thin.woff" | relative_url }}") format("woff"), url("{{ "/fonts/myriad-set-pro_thin.woff" | relative_url }}") format("truetype");
+	src:local('☺︎'), url('{{ "/assets/fonts/myriad-set-pro_thin.woff" | relative_url }}') format("woff"), url('{{ "/assets/fonts/myriad-set-pro_thin.woff" | relative_url }}') format("truetype");
 	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
 }
 
