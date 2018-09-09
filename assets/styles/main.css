@@ -10,7 +10,7 @@
 
 html, body {
     background-color: #111;
-    color: #b8afa4;
+    color: #e1d3c1;
 }
 
 h1 {
@@ -22,6 +22,10 @@ h1 {
 
 p {
     text-indent: 20px;
+}
+
+blockquote > p {
+    text-indent: 0px;
 }
 
 .content {
