@@ -3,8 +3,7 @@ layout: book
 author: Альф Рен
 name: Фанки-идеи. Создание инноваций вне зоны комфорта
 categories:
-- inofant
-- bradbury
+- alf_rehn
 ---
 
 ## Предупреждение
