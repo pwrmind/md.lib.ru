@@ -15,7 +15,6 @@ html, body {
 }
 
 h1, h2, h3 {
-    /* color: #333 !important; */
     font-weight: 200;
     letter-spacing: -0.008em; 
 }
@@ -27,8 +26,4 @@ p {
 
 blockquote > p {
     text-indent: 0px;
-}
-
-.content {
-    /* color: #333; */
 }
